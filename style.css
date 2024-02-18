@@ -22,7 +22,6 @@ body{
 
 .header_img{
     position: absolute;
-    /* margin: 40px 0 0 84px; */
 }
 
 .header_img > img{
@@ -127,7 +126,7 @@ main{
 .info > p{
     margin-left: 8px;
     display: inline-block;
-    font-size: 12px;
+    font-size: 30px;
     line-height: 18px;
     color: #495057;
 }
@@ -221,7 +220,7 @@ main{
     margin-top: 32px;
     font-style: normal;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 34px;
     line-height: 29px;
     text-align: center;
 }
@@ -230,7 +229,7 @@ main{
     margin-top: 16px;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 26px;
     line-height: 24px;
     text-align: center;
 }
@@ -370,7 +369,7 @@ main{
         margin-left: 0;
     }
 }
-/*Pie de pagina*/
+
 .pie-pagina{
     margin: 1m 0 0 0;
     padding: 10px 0;
